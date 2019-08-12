@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Creating a new branch is quick and simple.
-this is master.
+this is dev.
+=======
+Creating a new branch is quick and simple.
+this is dev.
+>>>>>>> dev
